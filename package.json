@@ -1,0 +1,17 @@
+{
+  "name": "@dasmeta/event-manager-deployer",
+  "version": "1.0.0",
+  "description": "Event manager",
+  "main": "index.js",
+  "repository": "git@github.com:dasmeta/event-manager-deployer.git",
+  "license": "Apache-2.0",
+  "scripts": {
+    "prettier": "prettier --write '**/*.js'"
+  },
+  "dependencies": {
+    "mongodb": "^3.3.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
